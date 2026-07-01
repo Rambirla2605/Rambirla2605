@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Ram Birla S 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2f2f2f,100:0A66C2&height=200&section=header&text=Ram%20Birla%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Vibe%20Coder%20%C2%B7%20Java%20Developer%20%C2%B7%20Problem%20Solver&descAlignY=58&descSize=18" />
 
-### Vibe Coder · Java Developer · Aspiring Problem Solver
+<img src="https://readme-typing-svg.demolab.com/?lines=I+build+things+that+solve+real+problems.;I+vibe+code+with+AI+as+my+partner.;Currently+leveling+up+in+Java+%26+MySQL.&font=Fira+Code&center=true&width=520&height=45&color=0A66C2&vCenter=true&size=20&pause=1200" />
 
-I love building things that make everyday life a little easier — one line of code at a time.
+<br/>
 
 <a href="https://www.linkedin.com/in/rambirla/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,6 +15,10 @@ I love building things that make everyday life a little easier — one line of c
 <a href="https://github.com/Rambirla2605">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rambirla2605&label=Profile+Views&color=0A66C2&style=flat" />
 
 </div>
 
@@ -35,16 +39,18 @@ I got into coding because I wanted to **solve real-world problems**, not just wr
 
 ## 🧰 Tech Stack
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,mysql,python,c,cpp,html,js,ts,git,github&theme=light" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Vibe Coding](https://img.shields.io/badge/Style-AI--Assisted%20%E2%80%A2%20Vibe%20Coding-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
+
 </div>
 
 <br/>
@@ -87,6 +93,29 @@ A Java-based application to manage and streamline student fee records, connected
 
 <br/>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rambirla2605&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rambirla2605&theme=minimal&hide_border=true&area=true" />
+</div>
+
+<br/>
+
+<details>
+<summary align="center">🐍 My Contribution Snake (click to expand)</summary>
+<br/>
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Rambirla2605/Rambirla2605/output/github-contribution-grid-snake.svg" />
+</div>
+<sub>⚙️ This animates automatically once you add the GitHub Action below to your profile repo (see setup notes at the bottom).</sub>
+</details>
+
+<br/>
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -105,4 +134,25 @@ I'm always open to learning, collaborating, or chatting about ideas that solve r
 *"Every great app started as someone's attempt to solve a small, real problem."*
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2f2f2f&height=100&section=footer" />
+
+<br/>
+
+<details>
+<summary>⚙️ One-time setup: activate the contribution snake animation</summary>
+
+<br/>
+
+The snake graphic above needs a small GitHub Action to generate itself. To turn it on:
+
+1. In your `Rambirla2605/Rambirla2605` repo, go to **Actions → New workflow → set up a workflow yourself**.
+2. Name the file `snake.yml` and paste in the official `Platane/snk` action config (search "Platane snk GitHub Action snake" for the latest YAML).
+3. Commit it — GitHub will run the action daily and auto-generate the animated snake `.svg`, which the image link above already points to.
+
+Until this is set up, that section will just show a broken image, so either add the workflow or delete the `<details>` block for the snake.
+
+</details>
 
